@@ -1,1 +1,2 @@
-'pour cloner un r�pository nous avons utiliser git clone et pour push nous avons utiliser git add, git commit-m et git push origin main' 
+Pour cloner un répository nous avons utiliser git clone et pour push nous avons utiliser git add, git commit-m et git push origin main 
+Pour réaliser un pull, nous utilisons la commande git pull. 
