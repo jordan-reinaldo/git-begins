@@ -1,2 +1,1 @@
-Pour cloner un répository nous avons utiliser git clone et pour push nous avons utiliser git add, git commit-m et git push origin main 
-Pour réaliser un pull, nous utilisons la commande git pull. 
+Pour cloner un repository nous avons utiliser git clone et poru push nous avons utiliser git, git commit -m et git push origin main. Pour realiser un pull, nous utilisons la command git pull. Pour cr�er une branche, nous utilisons la commande git branch et pour switcher de branche nous utilisons git checkout 
